@@ -5,7 +5,7 @@ I hope reading content from here gives each one of you something to learn and re
 
 **Project1 #VBA Challenge **
 Prerequisites
-1.Excel with Devleoper Tools option enabled
+1.Excel with Devloper Tools option enabled
 2.Sample datasets of similar layout that can be used to run the vbs code on 
 3.Most important of all some Dedication to Learn with an open mind! 
 
@@ -18,4 +18,4 @@ Prerequisites
   Option 2 :Macros-->Select Macro name --> Stock_Program -->Run 
 
 **Acknowledgements **
-1.Discussions in study groups of students participating in the the same challenge 
+1.Discussions in study groups of students participating in the same challenge 
