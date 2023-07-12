@@ -1,5 +1,5 @@
 **Welcome to my Repository!**
-I am Anusha Sekhar, and reachable at anusha.sekhar10@gmail.com
+I am Anusha Sekhar reachable at anusha.sekhar10@gmail.com
 Creating this Repository has been a great milestone in my coding journey.
 I hope reading content from here gives each one of you something to learn and reflect on!
 
