@@ -6,6 +6,9 @@ I hope reading content from here gives each one of you something to learn and im
 
 **Project1 #VBA Challenge**
 
+Create a script that loops through all the stocks for one year and outputs various calculated elements like  the Yearly change, Percent change, total volumne for distinct Tickers that data is available for. 
+In addtion to these calculations identify some of the greatest % changes  
+
 **Prerequisites**
 
 1.Excel with Devloper Tools option enabled
